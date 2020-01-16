@@ -20,6 +20,6 @@ public class TEstingSCript : MonoBehaviour
 
     void AnotherFunction()
     {
-
+        Debug.Log("from desktop git");
     }
 }
