@@ -13,9 +13,13 @@ public class TEstingSCript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("This line is written on the laptop");
-        Debug.Log("Another line written on desktop");
+        
 
 		GetComponent<Transform>();
+    }
+
+    void AnotherFunction()
+    {
+
     }
 }
