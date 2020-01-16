@@ -15,5 +15,7 @@ public class TEstingSCript : MonoBehaviour
     {
         Debug.Log("This line is written on the laptop");
         Debug.Log("Another line written on desktop");
+
+		GetComponent<Transform>();
     }
 }
