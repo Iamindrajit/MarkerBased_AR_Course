@@ -15,7 +15,7 @@ public class TEstingSCript : MonoBehaviour
     {
         
 
-		GetComponent<Transform>();
+		
     }
 
     void AnotherFunction()
