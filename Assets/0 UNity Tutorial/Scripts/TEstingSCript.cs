@@ -21,5 +21,7 @@ public class TEstingSCript : MonoBehaviour
     void AnotherFunction()
     {
         GetComponent<Transform>();
+        Debug.Log("from desktop git");
+        gameObject.SetActive(false);
     }
 }
