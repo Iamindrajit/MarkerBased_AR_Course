@@ -1,0 +1,1475 @@
+fileFormatVersion: 2
+guid: c65751972b0cc1e4d802296d22342b7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1.000
+    100002: 1.001
+    100004: 1.003
+    100006: 2.000
+    100008: 3.000
+    100010: 3.001
+    100012: 3.003
+    100014: 3.004
+    100016: 3.005
+    100018: 3.006
+    100020: 4.000
+    100022: 5.000
+    100024: Arm:Cockpit_1.003
+    100026: Armature_Futuristic Living Module_L.002
+    100028: Armature_Futuristic Living Module_L.003
+    100030: Armature_Futuristic Living Module_L.004
+    100032: Armature_Futuristic Living Module_L.005
+    100034: Armature_Futuristic Living Module_L.006
+    100036: Armature_Futuristic Living Module_L.007
+    100038: Bone
+    100040: Bone 1
+    100042: Bone 2
+    100044: Bone 3
+    100046: Bone 4
+    100048: Bone 5
+    100050: Bone.001
+    100052: Bone.001 1
+    100054: Bone.001 2
+    100056: Bone.001 3
+    100058: Bone.001 4
+    100060: Bone.001 5
+    100062: Bone.001 6
+    100064: Bone.001_Back_L
+    100066: Bone.001_Back_L_end
+    100068: Bone.001_Back_R
+    100070: Bone.001_Back_R_end
+    100072: Bone.001_end
+    100074: Bone.001_end 1
+    100076: Bone.001_end 2
+    100078: Bone.001_end 3
+    100080: Bone.001_end 4
+    100082: Bone.001_end 5
+    100084: Bone.001_Front
+    100086: Bone.001_Front_end
+    100088: Bone.001_Side_L
+    100090: Bone.001_Side_L_end
+    100092: Bone.001_Side_R
+    100094: Bone.001_Side_R_end
+    100096: Bone.002
+    100098: Bone.002 1
+    100100: Bone.002 2
+    100102: Bone.002 3
+    100104: Bone.002 4
+    100106: Bone.002 5
+    100108: Bone.002 6
+    100110: Bone.002_end
+    100112: Bone.002_end 1
+    100114: Bone.002_end 2
+    100116: Bone.002_end 3
+    100118: Bone.002_end 4
+    100120: Bone.002_end 5
+    100122: Bone.002_end 6
+    100124: Bone.003
+    100126: Bone.003 1
+    100128: Bone.003 2
+    100130: Bone.003 3
+    100132: Bone.003 4
+    100134: Bone.003 5
+    100136: Bone.003_end
+    100138: Bone.003_end 1
+    100140: Bone.003_end 2
+    100142: Bone.003_end 3
+    100144: Bone.003_end 4
+    100146: Bone.003_end 5
+    100148: Bone.004
+    100150: Bone.004_end
+    100152: Bone.006
+    100154: Bone.006_end
+    100156: Bone.007
+    100158: Bone.007_end
+    100160: Bone.008
+    100162: Bone.008_end
+    100164: Bone.009
+    100166: Bone.010
+    100168: Bone.010 1
+    100170: Bone.010_end
+    100172: Bone.010_end 1
+    100174: Bone.011
+    100176: Bone.011_end
+    100178: Bone.012
+    100180: Bone.012 1
+    100182: Bone.012_end
+    100184: Bone.013
+    100186: Bone.013 1
+    100188: Bone.013_end
+    100190: Bone.013_end 1
+    100192: Bone.014
+    100194: Bone.014 1
+    100196: Bone.014_end
+    100198: Bone.014_end 1
+    100200: Bone.015
+    100202: Bone.015_end
+    100204: Bone.016
+    100206: Bone.018
+    100208: Bone.018_end
+    100210: Bone.019
+    100212: Bone.019_end
+    100214: Bone.021
+    100216: Bone.021_end
+    100218: Bone_Back_L
+    100220: Bone_Back_R
+    100222: Bone_Front
+    100224: Bone_L.008_Back_L
+    100226: Bone_L.008_Back_R
+    100228: Bone_L.008_Front
+    100230: Bone_L.008_Side_L
+    100232: Bone_L.008_Side_R
+    100234: Bone_Side_L
+    100236: Bone_Side_R
+    100238: Cap.002
+    100240: Circle.016
+    100242: Circle.018
+    100244: Circle.025
+    100246: Circle.026
+    100248: Circle.027
+    100250: Circle.028
+    100252: Circle.029
+    100254: Circle.031
+    100256: Circle.032
+    100258: Circle.033
+    100260: Circle.035
+    100262: Circle.038
+    100264: Circle.058
+    100266: Circle.059
+    100268: Circle.060
+    100270: Circle.062
+    100272: Circle.221
+    100274: Circle.222
+    100276: Circle.223
+    100278: Circle.246
+    100280: Circle.247
+    100282: Circle.248
+    100284: Circle.249
+    100286: Circle.251
+    100288: Circle.252
+    100290: Circle.253
+    100292: Circle.345
+    100294: Circle.346
+    100296: Circle.347
+    100298: Circle.348
+    100300: Circle.349
+    100302: Circle.350
+    100304: Circle.351
+    100306: Circle.352
+    100308: Circle.353
+    100310: Circle.354
+    100312: Circle.355
+    100314: Circle.356
+    100316: Circle.357
+    100318: Circle.358
+    100320: Circle.359
+    100322: Circle.360
+    100324: Circle.361
+    100326: Circle.362
+    100328: Circle.363
+    100330: Circle.364
+    100332: Circle.365
+    100334: Circle.366
+    100336: Circle.367
+    100338: Circle.368
+    100340: Circle.369
+    100342: Circle.370
+    100344: Circle.371
+    100346: Circle.372
+    100348: Circle.373
+    100350: Circle.374
+    100352: Circle.375
+    100354: Circle.376
+    100356: Circle.377
+    100358: Circle.378
+    100360: Circle.379
+    100362: Circle.380
+    100364: Circle.381
+    100366: Circle.382
+    100368: Circle.383
+    100370: Circle.384
+    100372: Circle.385
+    100374: Circle.386
+    100376: Circle.387
+    100378: Circle.388
+    100380: Circle.389
+    100382: Circle.390
+    100384: Circle.391
+    100386: Circle.392
+    100388: Circle.393
+    100390: Circle.394
+    100392: Circle.395
+    100394: Circle.396
+    100396: Circle.397
+    100398: Circle.398
+    100400: Circle.399
+    100402: Cube.010
+    100404: Cube.011
+    100406: Cube.012
+    100408: Cube.013
+    100410: Cube.014
+    100412: Cube.015
+    100414: Cube.016
+    100416: Cube.017
+    100418: Cube.018
+    100420: Cube.019
+    100422: Cube.024
+    100424: Cube.025
+    100426: Cube.028
+    100428: Door.003
+    100430: Door.004
+    100432: Empty
+    100434: Empty.001
+    100436: Empty.002
+    100438: Empty.003
+    100440: Empty.004
+    100442: Empty.005
+    100444: Empty.008
+    100446: Empty.010
+    100448: Empty.012
+    100450: Empty.014
+    100452: Empty.016
+    100454: Empty.018
+    100456: Empty.020
+    100458: Empty.022
+    100460: Empty.028
+    100462: Empty.030
+    100464: Five Wheeler
+    100466: Floor_F_R_Back_L
+    100468: Floor_F_R_Back_R
+    100470: Floor_F_R_Front
+    100472: Floor_F_R_Side_L
+    100474: Floor_F_R_Side_R
+    100476: Front_Connection
+    100478: Front_Connection_end
+    100480: //RootNode
+    100482: Futuristic Living Module_L.008
+    100484: Futuristic Living Module_L.009
+    100486: Futuristic Living Module_L.010
+    100488: Futuristic Living Module_L.011
+    100490: Futuristic Living Module_L.012
+    100492: Futuristic Living Module_L.013
+    100494: Futuristic Living Module_L.014
+    100496: Futuristic Living Module_L.015
+    100498: Futuristic Living Module_L.016
+    100500: Futuristic Living Module_L.017
+    100502: Futuristic Living Module_L.018
+    100504: Futuristic Living Module_L.019
+    100506: Futuristic Living Module_L.020
+    100508: Futuristic Living Module_L.021
+    100510: Futuristic Living Module_L.022
+    100512: Futuristic Living Module_L.023
+    100514: Futuristic Living Module_L.024
+    100516: Futuristic Living Module_L.025
+    100518: Futuristic Living Module_L.026
+    100520: Futuristic Living Module_L.027
+    100522: Futuristic Living Module_L.028
+    100524: Futuristic Living Module_L.029
+    100526: Futuristic Living Module_L.030
+    100528: Futuristic Living Module_L.031
+    100530: glas.003
+    100532: glas.004
+    100534: GroundBody.003
+    100536: GroundBody.004
+    100538: Hemi
+    100540: Hip_F_R_Back_L
+    100542: Hip_F_R_Back_R
+    100544: Hip_F_R_Front
+    100546: Hip_F_R_Side_L
+    100548: Hip_F_R_Side_R
+    100550: IK_Cont_Wheel__Drive_F_R.001_Back_L
+    100552: IK_Cont_Wheel__Drive_F_R.001_Back_L_end
+    100554: IK_Cont_Wheel__Drive_F_R.001_Back_R
+    100556: IK_Cont_Wheel__Drive_F_R.001_Back_R_end
+    100558: IK_Cont_Wheel__Drive_F_R.001_Front
+    100560: IK_Cont_Wheel__Drive_F_R.001_Front_end
+    100562: IK_Cont_Wheel__Drive_F_R.001_Side_L
+    100564: IK_Cont_Wheel__Drive_F_R.001_Side_L_end
+    100566: IK_Cont_Wheel__Drive_F_R.001_Side_R
+    100568: IK_Cont_Wheel__Drive_F_R.001_Side_R_end
+    100570: IK_Cont_Wheel_F_R.001_Back_L
+    100572: IK_Cont_Wheel_F_R.001_Back_L_end
+    100574: IK_Cont_Wheel_F_R.001_Back_R
+    100576: IK_Cont_Wheel_F_R.001_Back_R_end
+    100578: IK_Cont_Wheel_F_R.001_Front
+    100580: IK_Cont_Wheel_F_R.001_Front_end
+    100582: IK_Cont_Wheel_F_R.001_Side_L
+    100584: IK_Cont_Wheel_F_R.001_Side_L_end
+    100586: IK_Cont_Wheel_F_R.001_Side_R
+    100588: IK_Cont_Wheel_F_R.001_Side_R_end
+    100590: IK_Cont_Wheel_F_R_Back_L
+    100592: IK_Cont_Wheel_F_R_Back_L_end
+    100594: IK_Cont_Wheel_F_R_Back_R
+    100596: IK_Cont_Wheel_F_R_Back_R_end
+    100598: IK_Cont_Wheel_F_R_Front
+    100600: IK_Cont_Wheel_F_R_Front_end
+    100602: IK_Cont_Wheel_F_R_Side_L
+    100604: IK_Cont_Wheel_F_R_Side_L_end
+    100606: IK_Cont_Wheel_F_R_Side_R
+    100608: IK_Cont_Wheel_F_R_Side_R_end
+    100610: IK_Hydraulic_F_R.001_Back_L
+    100612: IK_Hydraulic_F_R.001_Back_L_end
+    100614: IK_Hydraulic_F_R.001_Back_R
+    100616: IK_Hydraulic_F_R.001_Back_R_end
+    100618: IK_Hydraulic_F_R.001_Front
+    100620: IK_Hydraulic_F_R.001_Front_end
+    100622: IK_Hydraulic_F_R.001_Side_L
+    100624: IK_Hydraulic_F_R.001_Side_L_end
+    100626: IK_Hydraulic_F_R.001_Side_R
+    100628: IK_Hydraulic_F_R.001_Side_R_end
+    100630: IK_Hydraulic_F_R.002_Back_L
+    100632: IK_Hydraulic_F_R.002_Back_L_end
+    100634: IK_Hydraulic_F_R.002_Back_R
+    100636: IK_Hydraulic_F_R.002_Back_R_end
+    100638: IK_Hydraulic_F_R.002_Front
+    100640: IK_Hydraulic_F_R.002_Front_end
+    100642: IK_Hydraulic_F_R.002_Side_L
+    100644: IK_Hydraulic_F_R.002_Side_L_end
+    100646: IK_Hydraulic_F_R.002_Side_R
+    100648: IK_Hydraulic_F_R.002_Side_R_end
+    100650: IK_Hydraulic_F_R_Back_L
+    100652: IK_Hydraulic_F_R_Back_R
+    100654: IK_Hydraulic_F_R_Front
+    100656: IK_Hydraulic_F_R_Side_L
+    100658: IK_Hydraulic_F_R_Side_R
+    100660: IK_Upper_Leg_F_R.001_Back_L
+    100662: IK_Upper_Leg_F_R.001_Back_L_end
+    100664: IK_Upper_Leg_F_R.001_Back_R
+    100666: IK_Upper_Leg_F_R.001_Back_R_end
+    100668: IK_Upper_Leg_F_R.001_Front
+    100670: IK_Upper_Leg_F_R.001_Front_end
+    100672: IK_Upper_Leg_F_R.001_Side_L
+    100674: IK_Upper_Leg_F_R.001_Side_L_end
+    100676: IK_Upper_Leg_F_R.001_Side_R
+    100678: IK_Upper_Leg_F_R.001_Side_R_end
+    100680: IK_Upper_Leg_F_R.002_Back_L
+    100682: IK_Upper_Leg_F_R.002_Back_R
+    100684: IK_Upper_Leg_F_R.002_Front
+    100686: IK_Upper_Leg_F_R.002_Side_L
+    100688: IK_Upper_Leg_F_R.002_Side_R
+    100690: IK_Upper_Leg_F_R_Back_L
+    100692: IK_Upper_Leg_F_R_Back_R
+    100694: IK_Upper_Leg_F_R_Front
+    100696: IK_Upper_Leg_F_R_Side_L
+    100698: IK_Upper_Leg_F_R_Side_R
+    100700: IK_Wheel_F_R_Back_L
+    100702: IK_Wheel_F_R_Back_R
+    100704: IK_Wheel_F_R_Front
+    100706: IK_Wheel_F_R_Side_L
+    100708: IK_Wheel_F_R_Side_R
+    100710: Middel_Body.001
+    100712: Middel_Body.002
+    100714: Middel_Body.003
+    100716: Plane.003
+    100718: Plane.004
+    100720: Plane.011
+    100722: Plane.012
+    100724: Plane.013
+    100726: Plane.014
+    100728: Plane.016
+    100730: Plane.017
+    100732: Plane.018
+    100734: Plane.019
+    100736: Point
+    100738: Rail.002
+    100740: root
+    100742: root_Back_L
+    100744: root_Back_R
+    100746: root_Front
+    100748: root_Side_L
+    100750: root_Side_R
+    100752: Rot_Y_Hip_F_R.001_Back_L
+    100754: Rot_Y_Hip_F_R.001_Back_L_end
+    100756: Rot_Y_Hip_F_R.001_Back_R
+    100758: Rot_Y_Hip_F_R.001_Back_R_end
+    100760: Rot_Y_Hip_F_R.001_Front
+    100762: Rot_Y_Hip_F_R.001_Front_end
+    100764: Rot_Y_Hip_F_R.001_Side_L
+    100766: Rot_Y_Hip_F_R.001_Side_L_end
+    100768: Rot_Y_Hip_F_R.001_Side_R
+    100770: Rot_Y_Hip_F_R.001_Side_R_end
+    100772: Sun
+    100774: Under_Leg_F_R_Back_L
+    100776: Under_Leg_F_R_Back_R
+    100778: Under_Leg_F_R_Front
+    100780: Under_Leg_F_R_Side_L
+    100782: Under_Leg_F_R_Side_R
+    100784: Wheel_Connetion_Back_L
+    100786: Wheel_Connetion_Back_R
+    100788: Wheel_Connetion_Front
+    100790: Wheel_Connetion_Side_L
+    100792: Wheel_Connetion_Side_R
+    100794: Wheel_Cont_Floor_F_L_Back_L
+    100796: Wheel_Cont_Floor_F_L_Back_R
+    100798: Wheel_Cont_Floor_F_L_Front
+    100800: Wheel_Cont_Floor_F_L_Side_L
+    100802: Wheel_Cont_Floor_F_L_Side_R
+    400000: 1.000
+    400002: 1.001
+    400004: 1.003
+    400006: 2.000
+    400008: 3.000
+    400010: 3.001
+    400012: 3.003
+    400014: 3.004
+    400016: 3.005
+    400018: 3.006
+    400020: 4.000
+    400022: 5.000
+    400024: Arm:Cockpit_1.003
+    400026: Armature_Futuristic Living Module_L.002
+    400028: Armature_Futuristic Living Module_L.003
+    400030: Armature_Futuristic Living Module_L.004
+    400032: Armature_Futuristic Living Module_L.005
+    400034: Armature_Futuristic Living Module_L.006
+    400036: Armature_Futuristic Living Module_L.007
+    400038: Bone
+    400040: Bone 1
+    400042: Bone 2
+    400044: Bone 3
+    400046: Bone 4
+    400048: Bone 5
+    400050: Bone.001
+    400052: Bone.001 1
+    400054: Bone.001 2
+    400056: Bone.001 3
+    400058: Bone.001 4
+    400060: Bone.001 5
+    400062: Bone.001 6
+    400064: Bone.001_Back_L
+    400066: Bone.001_Back_L_end
+    400068: Bone.001_Back_R
+    400070: Bone.001_Back_R_end
+    400072: Bone.001_end
+    400074: Bone.001_end 1
+    400076: Bone.001_end 2
+    400078: Bone.001_end 3
+    400080: Bone.001_end 4
+    400082: Bone.001_end 5
+    400084: Bone.001_Front
+    400086: Bone.001_Front_end
+    400088: Bone.001_Side_L
+    400090: Bone.001_Side_L_end
+    400092: Bone.001_Side_R
+    400094: Bone.001_Side_R_end
+    400096: Bone.002
+    400098: Bone.002 1
+    400100: Bone.002 2
+    400102: Bone.002 3
+    400104: Bone.002 4
+    400106: Bone.002 5
+    400108: Bone.002 6
+    400110: Bone.002_end
+    400112: Bone.002_end 1
+    400114: Bone.002_end 2
+    400116: Bone.002_end 3
+    400118: Bone.002_end 4
+    400120: Bone.002_end 5
+    400122: Bone.002_end 6
+    400124: Bone.003
+    400126: Bone.003 1
+    400128: Bone.003 2
+    400130: Bone.003 3
+    400132: Bone.003 4
+    400134: Bone.003 5
+    400136: Bone.003_end
+    400138: Bone.003_end 1
+    400140: Bone.003_end 2
+    400142: Bone.003_end 3
+    400144: Bone.003_end 4
+    400146: Bone.003_end 5
+    400148: Bone.004
+    400150: Bone.004_end
+    400152: Bone.006
+    400154: Bone.006_end
+    400156: Bone.007
+    400158: Bone.007_end
+    400160: Bone.008
+    400162: Bone.008_end
+    400164: Bone.009
+    400166: Bone.010
+    400168: Bone.010 1
+    400170: Bone.010_end
+    400172: Bone.010_end 1
+    400174: Bone.011
+    400176: Bone.011_end
+    400178: Bone.012
+    400180: Bone.012 1
+    400182: Bone.012_end
+    400184: Bone.013
+    400186: Bone.013 1
+    400188: Bone.013_end
+    400190: Bone.013_end 1
+    400192: Bone.014
+    400194: Bone.014 1
+    400196: Bone.014_end
+    400198: Bone.014_end 1
+    400200: Bone.015
+    400202: Bone.015_end
+    400204: Bone.016
+    400206: Bone.018
+    400208: Bone.018_end
+    400210: Bone.019
+    400212: Bone.019_end
+    400214: Bone.021
+    400216: Bone.021_end
+    400218: Bone_Back_L
+    400220: Bone_Back_R
+    400222: Bone_Front
+    400224: Bone_L.008_Back_L
+    400226: Bone_L.008_Back_R
+    400228: Bone_L.008_Front
+    400230: Bone_L.008_Side_L
+    400232: Bone_L.008_Side_R
+    400234: Bone_Side_L
+    400236: Bone_Side_R
+    400238: Cap.002
+    400240: Circle.016
+    400242: Circle.018
+    400244: Circle.025
+    400246: Circle.026
+    400248: Circle.027
+    400250: Circle.028
+    400252: Circle.029
+    400254: Circle.031
+    400256: Circle.032
+    400258: Circle.033
+    400260: Circle.035
+    400262: Circle.038
+    400264: Circle.058
+    400266: Circle.059
+    400268: Circle.060
+    400270: Circle.062
+    400272: Circle.221
+    400274: Circle.222
+    400276: Circle.223
+    400278: Circle.246
+    400280: Circle.247
+    400282: Circle.248
+    400284: Circle.249
+    400286: Circle.251
+    400288: Circle.252
+    400290: Circle.253
+    400292: Circle.345
+    400294: Circle.346
+    400296: Circle.347
+    400298: Circle.348
+    400300: Circle.349
+    400302: Circle.350
+    400304: Circle.351
+    400306: Circle.352
+    400308: Circle.353
+    400310: Circle.354
+    400312: Circle.355
+    400314: Circle.356
+    400316: Circle.357
+    400318: Circle.358
+    400320: Circle.359
+    400322: Circle.360
+    400324: Circle.361
+    400326: Circle.362
+    400328: Circle.363
+    400330: Circle.364
+    400332: Circle.365
+    400334: Circle.366
+    400336: Circle.367
+    400338: Circle.368
+    400340: Circle.369
+    400342: Circle.370
+    400344: Circle.371
+    400346: Circle.372
+    400348: Circle.373
+    400350: Circle.374
+    400352: Circle.375
+    400354: Circle.376
+    400356: Circle.377
+    400358: Circle.378
+    400360: Circle.379
+    400362: Circle.380
+    400364: Circle.381
+    400366: Circle.382
+    400368: Circle.383
+    400370: Circle.384
+    400372: Circle.385
+    400374: Circle.386
+    400376: Circle.387
+    400378: Circle.388
+    400380: Circle.389
+    400382: Circle.390
+    400384: Circle.391
+    400386: Circle.392
+    400388: Circle.393
+    400390: Circle.394
+    400392: Circle.395
+    400394: Circle.396
+    400396: Circle.397
+    400398: Circle.398
+    400400: Circle.399
+    400402: Cube.010
+    400404: Cube.011
+    400406: Cube.012
+    400408: Cube.013
+    400410: Cube.014
+    400412: Cube.015
+    400414: Cube.016
+    400416: Cube.017
+    400418: Cube.018
+    400420: Cube.019
+    400422: Cube.024
+    400424: Cube.025
+    400426: Cube.028
+    400428: Door.003
+    400430: Door.004
+    400432: Empty
+    400434: Empty.001
+    400436: Empty.002
+    400438: Empty.003
+    400440: Empty.004
+    400442: Empty.005
+    400444: Empty.008
+    400446: Empty.010
+    400448: Empty.012
+    400450: Empty.014
+    400452: Empty.016
+    400454: Empty.018
+    400456: Empty.020
+    400458: Empty.022
+    400460: Empty.028
+    400462: Empty.030
+    400464: Five Wheeler
+    400466: Floor_F_R_Back_L
+    400468: Floor_F_R_Back_R
+    400470: Floor_F_R_Front
+    400472: Floor_F_R_Side_L
+    400474: Floor_F_R_Side_R
+    400476: Front_Connection
+    400478: Front_Connection_end
+    400480: //RootNode
+    400482: Futuristic Living Module_L.008
+    400484: Futuristic Living Module_L.009
+    400486: Futuristic Living Module_L.010
+    400488: Futuristic Living Module_L.011
+    400490: Futuristic Living Module_L.012
+    400492: Futuristic Living Module_L.013
+    400494: Futuristic Living Module_L.014
+    400496: Futuristic Living Module_L.015
+    400498: Futuristic Living Module_L.016
+    400500: Futuristic Living Module_L.017
+    400502: Futuristic Living Module_L.018
+    400504: Futuristic Living Module_L.019
+    400506: Futuristic Living Module_L.020
+    400508: Futuristic Living Module_L.021
+    400510: Futuristic Living Module_L.022
+    400512: Futuristic Living Module_L.023
+    400514: Futuristic Living Module_L.024
+    400516: Futuristic Living Module_L.025
+    400518: Futuristic Living Module_L.026
+    400520: Futuristic Living Module_L.027
+    400522: Futuristic Living Module_L.028
+    400524: Futuristic Living Module_L.029
+    400526: Futuristic Living Module_L.030
+    400528: Futuristic Living Module_L.031
+    400530: glas.003
+    400532: glas.004
+    400534: GroundBody.003
+    400536: GroundBody.004
+    400538: Hemi
+    400540: Hip_F_R_Back_L
+    400542: Hip_F_R_Back_R
+    400544: Hip_F_R_Front
+    400546: Hip_F_R_Side_L
+    400548: Hip_F_R_Side_R
+    400550: IK_Cont_Wheel__Drive_F_R.001_Back_L
+    400552: IK_Cont_Wheel__Drive_F_R.001_Back_L_end
+    400554: IK_Cont_Wheel__Drive_F_R.001_Back_R
+    400556: IK_Cont_Wheel__Drive_F_R.001_Back_R_end
+    400558: IK_Cont_Wheel__Drive_F_R.001_Front
+    400560: IK_Cont_Wheel__Drive_F_R.001_Front_end
+    400562: IK_Cont_Wheel__Drive_F_R.001_Side_L
+    400564: IK_Cont_Wheel__Drive_F_R.001_Side_L_end
+    400566: IK_Cont_Wheel__Drive_F_R.001_Side_R
+    400568: IK_Cont_Wheel__Drive_F_R.001_Side_R_end
+    400570: IK_Cont_Wheel_F_R.001_Back_L
+    400572: IK_Cont_Wheel_F_R.001_Back_L_end
+    400574: IK_Cont_Wheel_F_R.001_Back_R
+    400576: IK_Cont_Wheel_F_R.001_Back_R_end
+    400578: IK_Cont_Wheel_F_R.001_Front
+    400580: IK_Cont_Wheel_F_R.001_Front_end
+    400582: IK_Cont_Wheel_F_R.001_Side_L
+    400584: IK_Cont_Wheel_F_R.001_Side_L_end
+    400586: IK_Cont_Wheel_F_R.001_Side_R
+    400588: IK_Cont_Wheel_F_R.001_Side_R_end
+    400590: IK_Cont_Wheel_F_R_Back_L
+    400592: IK_Cont_Wheel_F_R_Back_L_end
+    400594: IK_Cont_Wheel_F_R_Back_R
+    400596: IK_Cont_Wheel_F_R_Back_R_end
+    400598: IK_Cont_Wheel_F_R_Front
+    400600: IK_Cont_Wheel_F_R_Front_end
+    400602: IK_Cont_Wheel_F_R_Side_L
+    400604: IK_Cont_Wheel_F_R_Side_L_end
+    400606: IK_Cont_Wheel_F_R_Side_R
+    400608: IK_Cont_Wheel_F_R_Side_R_end
+    400610: IK_Hydraulic_F_R.001_Back_L
+    400612: IK_Hydraulic_F_R.001_Back_L_end
+    400614: IK_Hydraulic_F_R.001_Back_R
+    400616: IK_Hydraulic_F_R.001_Back_R_end
+    400618: IK_Hydraulic_F_R.001_Front
+    400620: IK_Hydraulic_F_R.001_Front_end
+    400622: IK_Hydraulic_F_R.001_Side_L
+    400624: IK_Hydraulic_F_R.001_Side_L_end
+    400626: IK_Hydraulic_F_R.001_Side_R
+    400628: IK_Hydraulic_F_R.001_Side_R_end
+    400630: IK_Hydraulic_F_R.002_Back_L
+    400632: IK_Hydraulic_F_R.002_Back_L_end
+    400634: IK_Hydraulic_F_R.002_Back_R
+    400636: IK_Hydraulic_F_R.002_Back_R_end
+    400638: IK_Hydraulic_F_R.002_Front
+    400640: IK_Hydraulic_F_R.002_Front_end
+    400642: IK_Hydraulic_F_R.002_Side_L
+    400644: IK_Hydraulic_F_R.002_Side_L_end
+    400646: IK_Hydraulic_F_R.002_Side_R
+    400648: IK_Hydraulic_F_R.002_Side_R_end
+    400650: IK_Hydraulic_F_R_Back_L
+    400652: IK_Hydraulic_F_R_Back_R
+    400654: IK_Hydraulic_F_R_Front
+    400656: IK_Hydraulic_F_R_Side_L
+    400658: IK_Hydraulic_F_R_Side_R
+    400660: IK_Upper_Leg_F_R.001_Back_L
+    400662: IK_Upper_Leg_F_R.001_Back_L_end
+    400664: IK_Upper_Leg_F_R.001_Back_R
+    400666: IK_Upper_Leg_F_R.001_Back_R_end
+    400668: IK_Upper_Leg_F_R.001_Front
+    400670: IK_Upper_Leg_F_R.001_Front_end
+    400672: IK_Upper_Leg_F_R.001_Side_L
+    400674: IK_Upper_Leg_F_R.001_Side_L_end
+    400676: IK_Upper_Leg_F_R.001_Side_R
+    400678: IK_Upper_Leg_F_R.001_Side_R_end
+    400680: IK_Upper_Leg_F_R.002_Back_L
+    400682: IK_Upper_Leg_F_R.002_Back_R
+    400684: IK_Upper_Leg_F_R.002_Front
+    400686: IK_Upper_Leg_F_R.002_Side_L
+    400688: IK_Upper_Leg_F_R.002_Side_R
+    400690: IK_Upper_Leg_F_R_Back_L
+    400692: IK_Upper_Leg_F_R_Back_R
+    400694: IK_Upper_Leg_F_R_Front
+    400696: IK_Upper_Leg_F_R_Side_L
+    400698: IK_Upper_Leg_F_R_Side_R
+    400700: IK_Wheel_F_R_Back_L
+    400702: IK_Wheel_F_R_Back_R
+    400704: IK_Wheel_F_R_Front
+    400706: IK_Wheel_F_R_Side_L
+    400708: IK_Wheel_F_R_Side_R
+    400710: Middel_Body.001
+    400712: Middel_Body.002
+    400714: Middel_Body.003
+    400716: Plane.003
+    400718: Plane.004
+    400720: Plane.011
+    400722: Plane.012
+    400724: Plane.013
+    400726: Plane.014
+    400728: Plane.016
+    400730: Plane.017
+    400732: Plane.018
+    400734: Plane.019
+    400736: Point
+    400738: Rail.002
+    400740: root
+    400742: root_Back_L
+    400744: root_Back_R
+    400746: root_Front
+    400748: root_Side_L
+    400750: root_Side_R
+    400752: Rot_Y_Hip_F_R.001_Back_L
+    400754: Rot_Y_Hip_F_R.001_Back_L_end
+    400756: Rot_Y_Hip_F_R.001_Back_R
+    400758: Rot_Y_Hip_F_R.001_Back_R_end
+    400760: Rot_Y_Hip_F_R.001_Front
+    400762: Rot_Y_Hip_F_R.001_Front_end
+    400764: Rot_Y_Hip_F_R.001_Side_L
+    400766: Rot_Y_Hip_F_R.001_Side_L_end
+    400768: Rot_Y_Hip_F_R.001_Side_R
+    400770: Rot_Y_Hip_F_R.001_Side_R_end
+    400772: Sun
+    400774: Under_Leg_F_R_Back_L
+    400776: Under_Leg_F_R_Back_R
+    400778: Under_Leg_F_R_Front
+    400780: Under_Leg_F_R_Side_L
+    400782: Under_Leg_F_R_Side_R
+    400784: Wheel_Connetion_Back_L
+    400786: Wheel_Connetion_Back_R
+    400788: Wheel_Connetion_Front
+    400790: Wheel_Connetion_Side_L
+    400792: Wheel_Connetion_Side_R
+    400794: Wheel_Cont_Floor_F_L_Back_L
+    400796: Wheel_Cont_Floor_F_L_Back_R
+    400798: Wheel_Cont_Floor_F_L_Front
+    400800: Wheel_Cont_Floor_F_L_Side_L
+    400802: Wheel_Cont_Floor_F_L_Side_R
+    2100000: Fuel_Tanks
+    2100002: Control Module
+    2100004: Driver's cab_glas
+    2100006: Drivers cab
+    2100008: Dark_Plastic
+    2100010: Bright_Plastic
+    2100012: Hydraulic_Suspension
+    2100014: rail
+    2100016: Glas
+    2100018: Housing Unit
+    2100020: rail.001
+    2100022: wheel
+    2300000: 1.000
+    2300002: 1.001
+    2300004: 1.003
+    2300006: 2.000
+    2300008: 3.000
+    2300010: 3.001
+    2300012: 3.003
+    2300014: 3.004
+    2300016: 3.005
+    2300018: 3.006
+    2300020: 4.000
+    2300022: 5.000
+    2300024: Cap.002
+    2300026: Circle.016
+    2300028: Circle.018
+    2300030: Circle.025
+    2300032: Circle.026
+    2300034: Circle.027
+    2300036: Circle.028
+    2300038: Circle.029
+    2300040: Circle.031
+    2300042: Circle.032
+    2300044: Circle.033
+    2300046: Circle.035
+    2300048: Circle.038
+    2300050: Circle.058
+    2300052: Circle.059
+    2300054: Circle.060
+    2300056: Circle.062
+    2300058: Circle.221
+    2300060: Circle.222
+    2300062: Circle.223
+    2300064: Circle.246
+    2300066: Circle.247
+    2300068: Circle.248
+    2300070: Circle.249
+    2300072: Circle.251
+    2300074: Circle.252
+    2300076: Circle.253
+    2300078: Circle.345
+    2300080: Circle.346
+    2300082: Circle.347
+    2300084: Circle.348
+    2300086: Circle.349
+    2300088: Circle.350
+    2300090: Circle.351
+    2300092: Circle.352
+    2300094: Circle.353
+    2300096: Circle.354
+    2300098: Circle.355
+    2300100: Circle.356
+    2300102: Circle.357
+    2300104: Circle.358
+    2300106: Circle.359
+    2300108: Circle.360
+    2300110: Circle.361
+    2300112: Circle.362
+    2300114: Circle.363
+    2300116: Circle.364
+    2300118: Circle.365
+    2300120: Circle.366
+    2300122: Circle.367
+    2300124: Circle.368
+    2300126: Circle.369
+    2300128: Circle.370
+    2300130: Circle.371
+    2300132: Circle.372
+    2300134: Circle.373
+    2300136: Circle.374
+    2300138: Circle.375
+    2300140: Circle.376
+    2300142: Circle.377
+    2300144: Circle.378
+    2300146: Circle.379
+    2300148: Circle.380
+    2300150: Circle.381
+    2300152: Circle.382
+    2300154: Circle.383
+    2300156: Circle.384
+    2300158: Circle.385
+    2300160: Circle.386
+    2300162: Circle.387
+    2300164: Circle.388
+    2300166: Circle.389
+    2300168: Circle.390
+    2300170: Circle.391
+    2300172: Circle.392
+    2300174: Circle.393
+    2300176: Circle.394
+    2300178: Circle.395
+    2300180: Circle.396
+    2300182: Circle.397
+    2300184: Circle.398
+    2300186: Circle.399
+    2300188: Cube.010
+    2300190: Cube.011
+    2300192: Cube.012
+    2300194: Cube.013
+    2300196: Cube.014
+    2300198: Cube.015
+    2300200: Cube.016
+    2300202: Cube.017
+    2300204: Cube.018
+    2300206: Cube.019
+    2300208: Cube.024
+    2300210: Cube.025
+    2300212: Cube.028
+    2300214: Door.003
+    2300216: Door.004
+    2300218: Futuristic Living Module_L.008
+    2300220: Futuristic Living Module_L.009
+    2300222: Futuristic Living Module_L.010
+    2300224: Futuristic Living Module_L.011
+    2300226: Futuristic Living Module_L.012
+    2300228: Futuristic Living Module_L.013
+    2300230: Futuristic Living Module_L.014
+    2300232: Futuristic Living Module_L.015
+    2300234: Futuristic Living Module_L.016
+    2300236: Futuristic Living Module_L.017
+    2300238: Futuristic Living Module_L.018
+    2300240: Futuristic Living Module_L.019
+    2300242: Futuristic Living Module_L.020
+    2300244: Futuristic Living Module_L.021
+    2300246: Futuristic Living Module_L.022
+    2300248: Futuristic Living Module_L.023
+    2300250: Futuristic Living Module_L.024
+    2300252: Futuristic Living Module_L.025
+    2300254: Futuristic Living Module_L.026
+    2300256: Futuristic Living Module_L.027
+    2300258: Futuristic Living Module_L.028
+    2300260: Futuristic Living Module_L.029
+    2300262: Futuristic Living Module_L.030
+    2300264: Futuristic Living Module_L.031
+    2300266: glas.003
+    2300268: glas.004
+    2300270: GroundBody.003
+    2300272: GroundBody.004
+    2300274: Middel_Body.001
+    2300276: Middel_Body.002
+    2300278: Middel_Body.003
+    2300280: Plane.003
+    2300282: Plane.004
+    2300284: Plane.011
+    2300286: Plane.012
+    2300288: Plane.013
+    2300290: Plane.014
+    2300292: Plane.016
+    2300294: Plane.017
+    2300296: Plane.018
+    2300298: Plane.019
+    2300300: Rail.002
+    3300000: 1.000
+    3300002: 1.001
+    3300004: 1.003
+    3300006: 2.000
+    3300008: 3.000
+    3300010: 3.001
+    3300012: 3.003
+    3300014: 3.004
+    3300016: 3.005
+    3300018: 3.006
+    3300020: 4.000
+    3300022: 5.000
+    3300024: Cap.002
+    3300026: Circle.016
+    3300028: Circle.018
+    3300030: Circle.025
+    3300032: Circle.026
+    3300034: Circle.027
+    3300036: Circle.028
+    3300038: Circle.029
+    3300040: Circle.031
+    3300042: Circle.032
+    3300044: Circle.033
+    3300046: Circle.035
+    3300048: Circle.038
+    3300050: Circle.058
+    3300052: Circle.059
+    3300054: Circle.060
+    3300056: Circle.062
+    3300058: Circle.221
+    3300060: Circle.222
+    3300062: Circle.223
+    3300064: Circle.246
+    3300066: Circle.247
+    3300068: Circle.248
+    3300070: Circle.249
+    3300072: Circle.251
+    3300074: Circle.252
+    3300076: Circle.253
+    3300078: Circle.345
+    3300080: Circle.346
+    3300082: Circle.347
+    3300084: Circle.348
+    3300086: Circle.349
+    3300088: Circle.350
+    3300090: Circle.351
+    3300092: Circle.352
+    3300094: Circle.353
+    3300096: Circle.354
+    3300098: Circle.355
+    3300100: Circle.356
+    3300102: Circle.357
+    3300104: Circle.358
+    3300106: Circle.359
+    3300108: Circle.360
+    3300110: Circle.361
+    3300112: Circle.362
+    3300114: Circle.363
+    3300116: Circle.364
+    3300118: Circle.365
+    3300120: Circle.366
+    3300122: Circle.367
+    3300124: Circle.368
+    3300126: Circle.369
+    3300128: Circle.370
+    3300130: Circle.371
+    3300132: Circle.372
+    3300134: Circle.373
+    3300136: Circle.374
+    3300138: Circle.375
+    3300140: Circle.376
+    3300142: Circle.377
+    3300144: Circle.378
+    3300146: Circle.379
+    3300148: Circle.380
+    3300150: Circle.381
+    3300152: Circle.382
+    3300154: Circle.383
+    3300156: Circle.384
+    3300158: Circle.385
+    3300160: Circle.386
+    3300162: Circle.387
+    3300164: Circle.388
+    3300166: Circle.389
+    3300168: Circle.390
+    3300170: Circle.391
+    3300172: Circle.392
+    3300174: Circle.393
+    3300176: Circle.394
+    3300178: Circle.395
+    3300180: Circle.396
+    3300182: Circle.397
+    3300184: Circle.398
+    3300186: Circle.399
+    3300188: Cube.010
+    3300190: Cube.011
+    3300192: Cube.012
+    3300194: Cube.013
+    3300196: Cube.014
+    3300198: Cube.015
+    3300200: Cube.016
+    3300202: Cube.017
+    3300204: Cube.018
+    3300206: Cube.019
+    3300208: Cube.024
+    3300210: Cube.025
+    3300212: Cube.028
+    3300214: Door.003
+    3300216: Door.004
+    3300218: Futuristic Living Module_L.008
+    3300220: Futuristic Living Module_L.009
+    3300222: Futuristic Living Module_L.010
+    3300224: Futuristic Living Module_L.011
+    3300226: Futuristic Living Module_L.012
+    3300228: Futuristic Living Module_L.013
+    3300230: Futuristic Living Module_L.014
+    3300232: Futuristic Living Module_L.015
+    3300234: Futuristic Living Module_L.016
+    3300236: Futuristic Living Module_L.017
+    3300238: Futuristic Living Module_L.018
+    3300240: Futuristic Living Module_L.019
+    3300242: Futuristic Living Module_L.020
+    3300244: Futuristic Living Module_L.021
+    3300246: Futuristic Living Module_L.022
+    3300248: Futuristic Living Module_L.023
+    3300250: Futuristic Living Module_L.024
+    3300252: Futuristic Living Module_L.025
+    3300254: Futuristic Living Module_L.026
+    3300256: Futuristic Living Module_L.027
+    3300258: Futuristic Living Module_L.028
+    3300260: Futuristic Living Module_L.029
+    3300262: Futuristic Living Module_L.030
+    3300264: Futuristic Living Module_L.031
+    3300266: glas.003
+    3300268: glas.004
+    3300270: GroundBody.003
+    3300272: GroundBody.004
+    3300274: Middel_Body.001
+    3300276: Middel_Body.002
+    3300278: Middel_Body.003
+    3300280: Plane.003
+    3300282: Plane.004
+    3300284: Plane.011
+    3300286: Plane.012
+    3300288: Plane.013
+    3300290: Plane.014
+    3300292: Plane.016
+    3300294: Plane.017
+    3300296: Plane.018
+    3300298: Plane.019
+    3300300: Rail.002
+    4300000: 1.001
+    4300002: 2.000
+    4300004: 4.000
+    4300006: 5.000
+    4300008: glas.003
+    4300010: glas.004
+    4300012: GroundBody.003
+    4300014: Rail.002
+    4300016: Cap.002
+    4300018: GroundBody.004
+    4300020: Door.004
+    4300022: 3.000
+    4300024: 1.000
+    4300026: Circle.028
+    4300028: Circle.221
+    4300030: Circle.222
+    4300032: Circle.223
+    4300034: Cube.011
+    4300036: Cube.013
+    4300038: Cube.016
+    4300040: Cube.017
+    4300042: Cube.024
+    4300044: Cube.028
+    4300046: Circle.248
+    4300048: Futuristic Living Module_L.019
+    4300050: Futuristic Living Module_L.018
+    4300052: Futuristic Living Module_L.016
+    4300054: Futuristic Living Module_L.017
+    4300056: Futuristic Living Module_L.023
+    4300058: Futuristic Living Module_L.020
+    4300060: Futuristic Living Module_L.022
+    4300062: Futuristic Living Module_L.021
+    4300064: Futuristic Living Module_L.024
+    4300066: Futuristic Living Module_L.027
+    4300068: Futuristic Living Module_L.025
+    4300070: Futuristic Living Module_L.026
+    4300072: Futuristic Living Module_L.028
+    4300074: Futuristic Living Module_L.029
+    4300076: Futuristic Living Module_L.031
+    4300078: Futuristic Living Module_L.030
+    4300080: Middel_Body.001
+    4300082: Circle.025
+    4300084: Circle.026
+    4300086: Circle.027
+    4300088: Circle.029
+    4300090: Circle.031
+    4300092: Circle.032
+    4300094: Circle.033
+    4300096: Circle.035
+    4300098: Circle.251
+    4300100: Circle.252
+    4300102: Circle.253
+    4300104: Cube.010
+    4300106: Circle.016
+    4300108: Circle.018
+    4300110: Cube.025
+    4300112: Circle.246
+    4300114: Circle.247
+    4300116: Middel_Body.002
+    4300118: Middel_Body.003
+    4300120: Futuristic Living Module_L.011
+    4300122: Futuristic Living Module_L.008
+    4300124: Futuristic Living Module_L.010
+    4300126: Futuristic Living Module_L.009
+    4300128: Futuristic Living Module_L.015
+    4300130: Futuristic Living Module_L.014
+    4300132: Futuristic Living Module_L.012
+    4300134: Futuristic Living Module_L.013
+    4300136: Circle.345
+    4300138: Circle.346
+    4300140: Circle.353
+    4300142: Cube.014
+    4300144: Circle.356
+    4300146: 3.001
+    4300148: Circle.352
+    4300150: Circle.355
+    4300152: Circle.348
+    4300154: Circle.349
+    4300156: Circle.351
+    4300158: Plane.013
+    4300160: Plane.017
+    4300162: Circle.347
+    4300164: Circle.350
+    4300166: Circle.354
+    4300168: Circle.375
+    4300170: Circle.374
+    4300172: Cube.015
+    4300174: Circle.364
+    4300176: 3.004
+    4300178: Circle.368
+    4300180: Circle.365
+    4300182: Circle.371
+    4300184: Circle.372
+    4300186: Circle.369
+    4300188: Plane.011
+    4300190: Plane.012
+    4300192: Circle.366
+    4300194: Circle.370
+    4300196: Circle.373
+    4300198: Circle.399
+    4300200: Circle.398
+    4300202: Cube.019
+    4300204: Circle.388
+    4300206: 3.006
+    4300208: Circle.392
+    4300210: Circle.389
+    4300212: Circle.395
+    4300214: Circle.396
+    4300216: Circle.393
+    4300218: Plane.018
+    4300220: Plane.019
+    4300222: Circle.390
+    4300224: Circle.394
+    4300226: Circle.397
+    4300228: Circle.376
+    4300230: Circle.377
+    4300232: Cube.018
+    4300234: Circle.387
+    4300236: 3.005
+    4300238: Circle.383
+    4300240: Circle.386
+    4300242: Circle.379
+    4300244: Circle.380
+    4300246: Circle.382
+    4300248: Plane.014
+    4300250: Plane.016
+    4300252: Circle.378
+    4300254: Circle.381
+    4300256: Circle.385
+    4300258: Circle.038
+    4300260: Circle.058
+    4300262: Cube.012
+    4300264: Circle.363
+    4300266: 3.003
+    4300268: Circle.359
+    4300270: Circle.362
+    4300272: Circle.060
+    4300274: Circle.062
+    4300276: Circle.358
+    4300278: Plane.003
+    4300280: Plane.004
+    4300282: Circle.059
+    4300284: Circle.357
+    4300286: Circle.361
+    7400000: Five Wheeler|Idel
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Point
+    10800004: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bright_Plastic
+    second: {fileID: 2100000, guid: e5ea3f961bcf7a84faaf6a79c545a7a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control Module
+    second: {fileID: 2100000, guid: d1b5b074dc806934d805dd8d66ea901e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Plastic
+    second: {fileID: 2100000, guid: fbab2dc5d1c44b844827f41d836b545f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Driver's cab_glas
+    second: {fileID: 2100000, guid: 47bfda04f259c8d419fa4ea8c375e542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drivers cab
+    second: {fileID: 2100000, guid: b1384b68c47b95847a3b10f54763c29a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuel_Tanks
+    second: {fileID: 2100000, guid: c5faa318e3c0afd4bb3e1ec3a9a880ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas
+    second: {fileID: 2100000, guid: ae078bbfbf876804fab8aa84ab37211e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Housing Unit
+    second: {fileID: 2100000, guid: 4b512ea45117c9345ba502cef0d6f4cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hydraulic_Suspension
+    second: {fileID: 2100000, guid: 8e98de84390fbcb43ac02bfa0fd8d39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rail
+    second: {fileID: 2100000, guid: 172e7a92e6b94104a99545d811aae2a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rail.001
+    second: {fileID: 2100000, guid: cfe9c98dd0763444b831b0c4c3a4cb86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: 03fa6c7b3d8e9e24690513140ed38d0c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Module_Basic_color-
+    second: {fileID: 2800000, guid: c95ba1270d3dbdb41b9ba498d1cb0c14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Module_Basic_nmap-
+    second: {fileID: 2800000, guid: 2beb14085a77b7643b87263c2710af93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drivers_Cab_Old_UVMap_color
+    second: {fileID: 2800000, guid: c210c66f94aeff442ac79452b996a2e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drivers_Cab_Old_UVMap_nmap
+    second: {fileID: 2800000, guid: 658253c0ec183d744b85ccb68a58c8e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fuel_Tanks_Red_Version_color
+    second: {fileID: 2800000, guid: 2e1cfe534d603394dbce54070a8e3c7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fuel_Tanks_Red_Version_nmap
+    second: {fileID: 2800000, guid: 92424127a87868744b6cae86370dd0bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Housing_Unit_Old_Metal_Version_color
+    second: {fileID: 2800000, guid: 9d44b2880c3c06f4ea4befe1299a88d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Housing_Unit_Old_Metal_Version_nmap
+    second: {fileID: 2800000, guid: 1ba267c6dbda2f04c8937d2c5dcf9419, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hydraulic_Suspension_Old_Version_color
+    second: {fileID: 2800000, guid: 4fb47d7be43d28242a6335d468bd1295, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hydraulic_Suspension_Old_Version_nmap
+    second: {fileID: 2800000, guid: 6807ab6318667c64e90b24efac0868ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Rusty_Version_color
+    second: {fileID: 2800000, guid: 3e683a2d1d06c0c4e8f37771c382ed41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Rusty_Version_nmap
+    second: {fileID: 2800000, guid: 4c6c1059c36d4cd4988488b736619d69, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
